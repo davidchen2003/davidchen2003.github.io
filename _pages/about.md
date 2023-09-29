@@ -13,3 +13,9 @@ Hi, my name is Jingyang Chen, in simplified chinese, 陈敬旸. I am a junior st
 My hobbies
 ======
 I am fascinated about soccer, enjoy playing badminton, and have been cultivating my habits of fitness in gym lately. I finished fourth in the Freshmen Football Cup of PKU(2021) and scored a hat-trick on debut. My favorite players are Arjen Robben and Dennis Bergkamp. My another hobby is strategy games, such as Football Manager and Civilization IV.
+
+Research experiences
+======
+- Peking University ([Molecular Modelling Group](https://www.chem.pku.edu.cn/liuzhirong/en/))
+  Undergrad Research: Design of allosteric protein in a perspective of perturbation analysis
+  Sep.2023 - Present
