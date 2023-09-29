@@ -17,5 +17,7 @@ I am fascinated about soccer, enjoy playing badminton, and have been cultivating
 Research experiences
 ======
 - Peking University ([Molecular Modelling Group](https://www.chem.pku.edu.cn/liuzhirong/en/))
+  &emsp;
 Undergrad Research: Allosteric protein design in a perspective of perturbation analysis
+&emsp;
 Sep.2023 - Present
