@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Jingyang Chen, in simplified chinese, 陈敬旸. I am a junior student currently at Peking University. I study chemistry @ College of Chemistry and Molecular Engineering and physcis @ School of Physics. My research interests lie in theoretical and computational biophysical chemistry, especially far-from-equilibrium biochemical phenomena. Additionally, I have a keen interest in exploring the intersection of these disciplines with machine learning. I plan to pursue for a Ph.D degree after graduation in 2025.
+Hi, my name is Jingyang Chen, in simplified chinese, 陈敬旸. I am a junior student currently at Peking University. I study chemistry @ College of Chemistry and Molecular Engineering and physics @ School of Physics. My research interests lie in theoretical and computational biophysical chemistry, especially far-from-equilibrium biochemical phenomena. Additionally, I have a keen interest in exploring the intersection of these disciplines with machine learning. I plan to pursue for a Ph.D degree after graduation in 2025.
 
 My hobbies
 ======
