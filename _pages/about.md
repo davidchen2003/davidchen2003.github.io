@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the personal website of Jingyang Chen"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Jingyang Chen, in simplified chinese, 陈敬旸. I am a junior student currently at Peking University. I study chemistry @ College of Chemistry and Molecular Engineering and physics @ School of Physics. My research interests lie in theoretical and computational biophysical chemistry, especially far-from-equilibrium biochemical phenomena. Additionally, I have a keen interest in exploring the intersection of these disciplines with machine learning. I plan to pursue for a Ph.D degree after graduation in 2025.
+Greetings! I am Jingyang Chen(陈 敬旸), a junior student currently at College of Chemistry and Molecular Engineering, Peking University. My research focuses on theoretical and computational biophysical chemistry, especially far-from-equilibrium biochemical phenomena. Additionally, I have a keen interest in exploring the intersection of these disciplines with machine learning. I plan to pursue for a Ph.D degree after graduation in 2025.
 
-My hobbies
-======
-I am fascinated about soccer, enjoy playing badminton, and have been cultivating my habits of fitness in gym lately. I finished fourth in the Freshmen Football Cup of PKU(2021) and scored a hat-trick on debut. My favorite players are Arjen Robben and Dennis Bergkamp. I also have a passion for Jin Yong's martial arts novels.
+I am fascinated about soccer. I will share my insights on games, players and rules in the "blogs" section, looking forward to your browsing!
 
 Research experiences
 ======
