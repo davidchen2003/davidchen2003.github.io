@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Jingyang Chen(陈 敬旸), a junior student currently at the College of Chemistry and Molecular Engineering, Peking University. My research focuses on theoretical and computational biophysical chemistry, especially allosteric effects. I am also interested in far-from-equilibrium biochemical phenomena. I plan to pursue for a Ph.D degree after graduation in 2025.
-
-I am fascinated about soccer. I will share my insights on games, players and rules in the "blogs" section, looking forward to your browsing!
+Greetings! I am Jingyang Chen(陈 敬旸), a junior student currently at the College of Chemistry and Molecular Engineering, Peking University. My research focuses on theoretical and computational biophysical chemistry, especially allosteric effects. I am also interested in spectroscopic and imaging techniques. I plan to pursue for a Ph.D degree after graduation in 2025.
 
 Research experiences
 ======
