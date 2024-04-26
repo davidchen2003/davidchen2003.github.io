@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-It can be downloaded [here]{/files/CV_JingyangChen.pdf}
+It can be downloaded [here](/files/CV_JingyangChen.pdf)
