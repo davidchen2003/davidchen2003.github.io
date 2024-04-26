@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "JIngyang Chen's Academic Homepage"
+excerpt: "JIngyang Chen's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Greetings! I am Jingyang Chen(陈 敬旸), a junior student currently at the College of Chemistry and Molecular Engineering, Peking University. My research focuses on theoretical and computational chemistry and biophysics. I am also interested in spectroscopic and imaging techniques. I plan to pursue for a Ph.D degree after graduation in 2025.
 
-Research experiences
-======
-- Peking University ([Molecular Modelling Group](https://www.chem.pku.edu.cn/liuzhirong/en/))<br/>
-Undergrad Research: Allosteric protein design in a perspective of perturbation analysis<br/>
-Sep.2023 - Present
+
+Greetings! My name is Jingyang Chen(陈 敬旸), and I am currently a junior student at the College of Chemistry and Molecular Engineering, Peking University. After graduation in 2025, I plan to pursue for a Ph.D degree.
+
+My research interest lies in theoretical and computational chemistry and biophysics, specifically in multiscale modeling of biomolecular. I am also interested in spectroscopic and imaging techniques. 
+
+My research experience includes simulations of allosteric protein, which aimed to reveal that long-range coupled mechanical responses are easy to achieve in disordered networks in a computationally efficient approach by using perturbation-theory analysis.
+
+Contact me at [chenjingyang2021@stu.pku.edu.cn](chenjingyang2021@stu.pku.edu.cn).
+
