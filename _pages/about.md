@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "JIngyang Chen's Academic Homepage"
-excerpt: "JIngyang Chen's Academic Homepage"
+title: "Jingyang Chen's Homepage"
+excerpt: "Jingyang Chen's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,5 +16,5 @@ My research interest lies in theoretical and computational chemistry and biophys
 
 My research experience includes simulations of allosteric protein, which aimed to reveal that long-range coupled mechanical responses are easy to achieve in disordered networks in a computationally efficient approach by using perturbation-theory analysis.
 
-Contact me at [chenjingyang2021@stu.pku.edu.cn](chenjingyang2021@stu.pku.edu.cn).
+Feel free to contact me at chenjingyang2021@stu.pku.edu.cn.
 
