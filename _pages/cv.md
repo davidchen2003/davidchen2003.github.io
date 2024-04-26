@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Coming soon……
+It can be downloaded [here]{/files/CV_JingyangChen.pdf}
